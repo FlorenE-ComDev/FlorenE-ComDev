@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Shopify Store Setup
-- 📫 How to reach me: ...
+Hi there 👋
+🔭 I’m focused on IT support and cloud fundamentals
+🌱 Currently learning networking, Windows systems, and cloud environments
+💬 Ask me about troubleshooting, basic IT support, and system setup
+📫 How to reach me: www.linkedin.com/in/florentino-g
